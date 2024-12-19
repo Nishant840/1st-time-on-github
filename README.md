@@ -1,2 +1,4 @@
 # 1st-time-on-github
-This is my git repository
+This is my first git repository
+<br>
+author - nishant
